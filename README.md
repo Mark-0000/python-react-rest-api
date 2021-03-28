@@ -1,5 +1,5 @@
 ## create .env file on root directory
-add 2 variables
+### add 2 variables
 - MONGO_CLIENT_URL ~ python connection with mongodb atlas
 - API_URL ~ api url that will be used by react | the api will have it's own authenication token
 
