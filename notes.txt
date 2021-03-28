@@ -1,1 +1,4 @@
 npm install concurrently
+modify package.json
+
+pip install python-dotenv
